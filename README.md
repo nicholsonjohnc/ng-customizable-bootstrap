@@ -49,7 +49,7 @@ Creating components involves:
 * Committing to local branch and pushing to remote branch
 * Generating a pull request
 
-To illustrate these steps, let us create a "card" component.
+To illustrate these steps, let us create a card component.
 
 ### Creating a new Git branch
 
@@ -59,13 +59,13 @@ Checkout a branch called card based on master. The -b flag tells Git to create t
 
 ### Using the Angular CLI to generate a module
 
-Generate module "card" via:
+Generate module card via:
 
 `ng generate module modules/card`
 
 ### Using the Angular CLI to generate a component
 
-Generate component "card" via:
+Generate component card via:
 
 `ng generate component modules/card`
 
@@ -74,9 +74,11 @@ Generate component "card" via:
 
 ### Committing to local branch and pushing to remote branch
 
-`git add .`
-`git commit -m “finished card component”`
-`git push origin card`
+```
+git add .
+git commit -m 'finished card component'
+git push origin card
+```
 
 ### Generating a pull request
 
