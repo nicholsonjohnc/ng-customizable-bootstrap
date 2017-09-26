@@ -1,4 +1,4 @@
-# ng-customizable-bootstrap
+# NG Customizable Bootstrap
 
 Angular powered Bootstrap 4 components for customizable UIs
 
