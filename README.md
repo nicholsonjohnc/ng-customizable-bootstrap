@@ -4,9 +4,9 @@ Angular powered Bootstrap 4 components for customizable UIs
 
 # Contributing
 
-## Development environment
+## Setting up development environment
 
-### Development server
+### Running locally
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
